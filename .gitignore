@@ -1,7 +1,5 @@
-/src/test
+!/src
+!target/chromedriver
 .git
 .idea
-chromedriver.exe
-target
-chromedriver_linux64
-alert.iml
+*
